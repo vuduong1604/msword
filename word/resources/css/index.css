@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Home {
+    width: 900px;
+    border: 1px solid #000;
+    height: 100px;
+    background-color: #181818;
+    font-family: Helvetica, sans-serif;
+    font-size: 13px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
